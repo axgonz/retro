@@ -18,7 +18,7 @@ Estimate | Topic               | Length
 
 ## Intent
  
-To help FastTrack for Azure (FTA) improve our understanding of real world deployments with the goal to improve and maintain quality advice and guidance. 
+To help FastTrack for Azure (FTA) improve our understanding of real-world deployments with the goal to improve and maintain quality advice and guidance. 
 
 ## Scope
  
@@ -26,9 +26,9 @@ This retro will be run from your perspective.
  
 We will help you to focus on how you were successful and how you could change your approach for future projects.  
  
-We will help you to NOT focus on the FTA engagement. We are still happy to collect this feedback at the end but it is not the primary objective of this session. Please refer to the intent for this retro (above). 
+We will help you to NOT focus on the FTA engagement. We are still happy to collect this feedback at the end, but it is not the primary objective of this session. Please refer to the intent for this retro (above). 
  
-We will start by asking you to revisit your project's goals (as they were defined when you started your engagement with FTA). These will be used during the retro to help draw focus and to determin if your solution has achieve these goals.
+We will start by asking you to revisit your project's goals (as they were defined when you started your engagement with FTA). These will be used during the retro to help draw focus and to determine if your solution has achieve these goals.
 
 ## Let's start
 
@@ -46,8 +46,8 @@ We will start by asking you to revisit your project's goals (as they were define
 
 [OneFta Retro Boards](https://azurefasttrack.visualstudio.com/OneFTA/_apps/hub/ms-devlabs.team-retrospectives.home)
 
-[OneFta Retro Framework ](https://dev.azure.com/azurefasttrack/OneFTA/_wiki/wikis/FTA%20Wiki/7959/Retrospective-Framework)
+[OneFta Retro Framework](https://dev.azure.com/azurefasttrack/OneFTA/_wiki/wikis/FTA%20Wiki/7959/Retrospective-Framework)
 
-[Retro Nomitation Form](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=v4j5cvGGr0GRqy180BHbR5tL2Toxt-FHhDIUz1TuYuNUNFlGU0pMTkVBOUVFN1ROQUE2TVg2SlZMUi4u)
+[Retro Nomination Form](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=v4j5cvGGr0GRqy180BHbR5tL2Toxt-FHhDIUz1TuYuNUNFlGU0pMTkVBOUVFN1ROQUE2TVg2SlZMUi4u)
 
 [aka.ms/fta-retro](https://aka.ms/fta-retro)
