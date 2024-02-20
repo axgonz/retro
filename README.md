@@ -18,7 +18,7 @@ Estimate | Topic               | Length
 
 ## Intent
  
-To help FastTrack for Azure improve our understanding of real world deployments with the goal to improve and maintain quality advice and guidance. 
+To help FastTrack for Azure (FTA) improve our understanding of real world deployments with the goal to improve and maintain quality advice and guidance. 
 
 ## Scope
  
