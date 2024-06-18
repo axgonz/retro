@@ -48,6 +48,6 @@ We will start by asking you to revisit your project's goals (as they were define
 
 [OneFta Retro Framework](https://dev.azure.com/azurefasttrack/OneFTA/_wiki/wikis/FTA%20Wiki/7959/Retrospective-Framework)
 
-[Retro Nomination Form](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=v4j5cvGGr0GRqy180BHbR5tL2Toxt-FHhDIUz1TuYuNUNFlGU0pMTkVBOUVFN1ROQUE2TVg2SlZMUi4u)
+[Retro Nomination Form](https://forms.office.com/r/a6UehAAueJ)
 
 [aka.ms/fta-retro](https://aka.ms/fta-retro)
